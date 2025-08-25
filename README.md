@@ -36,7 +36,7 @@ The goal was to understand how KNN works and how predictions are made based on n
 
 ---
 
-Thank you everyone 🙏  
+Thank you everyone 
 
 — Swanand Patil  
 

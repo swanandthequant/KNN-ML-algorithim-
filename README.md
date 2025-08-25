@@ -1,20 +1,44 @@
-## datasets
-I made the dataset Myself using SKlearn.Dataset
+# K-Nearest Neighbors (KNN) Project  
 
-## Methodolody
-1. Model Training(I just made this dataset inside the file so no Data CLeaning was Needed and I used KNN ML algo)
-2. Model Evaluation (using r2_score,mean_absolute_error,mean_squared_error)
+This project applies the **K-Nearest Neighbors (KNN)** algorithm for both regression and classification problems.  
+The goal was to understand how KNN works and how predictions are made based on nearest data points.  
 
-This was for Regression Problem statement
-Classifiaction
-1. Model Training(I just made this dataset inside the file so no Data CLeaning was Needed and I used KNN ML algo)
-2. Model Evaluation (using accuracy_score,confusion_matrix,classification_report)
+---
 
+## Dataset  
+- I created the dataset myself using **sklearn.datasets**.  
+- Since the dataset was generated in the file, no special data cleaning was needed.  
 
-## what I learned
-I learned about How the KNN ML algo is derived How can we Train our model Base on this
+---
 
-Thank you everyone
-Swanand patil
+## Methodology  
+
+### Regression Problem Statement  
+1. Model Training (KNN Regressor used, no cleaning step required).  
+2. Model Evaluation with:  
+   - r2_score  
+   - mean_absolute_error  
+   - mean_squared_error  
+
+### Classifiaction Problem Statement  
+1. Model Training (KNN Classifier applied directly).  
+2. Model Evaluation with:  
+   - accuracy_score  
+   - confusion_matrix  
+   - classification_report  
+
+---
+
+## What I Learned  
+- How the KNN ML algo is derived and why it works.  
+- How to train models based on distance to nearest neighbors.  
+- Difference between KNN for regression vs classification.  
+
+---
+
+Thank you everyone 🙏  
+
+— Swanand Patil  
+
 
 
